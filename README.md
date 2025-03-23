@@ -13,8 +13,8 @@ I’m a software engineering student at <b> Cardiff Metropolitan University</b>,
 # 🌐 Connect with me:
 <p align="Center">
    <a href="www.linkedin.com/in/viraj-madushan-747a09257" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg"     alt="Viraj Madushan" height="40" width="40"  /></a>
-  <a href="https://www.instagram.com/_viraj.madushan_/profilecard/?igsh=MTZiY3k3MGt5cXRlbg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_viraj.madushan_" height="40" width="40" /></a>
-  <a href="https://youtube.com/@virajmjay?si=p6T4mbxcdM22ER_4" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="virajmadushan" height="40" width="40" /></a>
+ // <a href="https://www.instagram.com/_viraj.madushan_/profilecard/?igsh=MTZiY3k3MGt5cXRlbg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_viraj.madushan_" height="40" width="40" /></a>
+//  <a href="https://youtube.com/@virajmjay?si=p6T4mbxcdM22ER_4" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="virajmadushan" height="40" width="40" /></a>
 </P>
 <br />
 
